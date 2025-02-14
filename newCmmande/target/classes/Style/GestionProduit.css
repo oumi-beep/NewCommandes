@@ -1,0 +1,29 @@
+.table_view {
+-fx-background-color:transparent;
+-fx-padding :0;
+-fx-border-raduis:6px
+-fx-border-width:1.2em;
+}
+.action{
+-fx-background-color:#FFFFFF;
+}
+.action Labl {
+-fx-font-size:1.3em;
+-fx-font-family:"Calibri light";
+}
+.action TextField{
+-fx-pref-height:30;
+-fx-background-color:#FFFFFF;
+-fx-effect:dropshadow(three-pass-box,#AAAAAA,5,0,0,0);
+}
+.action Button {
+-fx-background-color:#5BBCFF;
+-fx-font-size:1em;
+-fx-text-fill:#FFFFFF;
+-fx-effect:dropshadow(three-pass-box,#AAAAAA,3,0,0,3);
+}
+.anche {
+-fx-background-color:#fff;
+-fx-background-radius:8px;
+-fx-effect: dropshadow(three-pass-box,rgba(0,0,0,0.5),5,0,0,0);
+}
